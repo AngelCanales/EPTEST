@@ -1,0 +1,11 @@
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Contracion.csprojResolveAssemblyReference.cache
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Contracion.csproj.GenerateResource.Cache
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ConecxionDB.exe
+C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ConecxionDB.pdb
