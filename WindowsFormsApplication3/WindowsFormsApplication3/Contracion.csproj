@@ -52,6 +52,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModel\ViewModelEmpleado.cs" />
+    <EmbeddedResource Include="Form1.es-HN.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -87,6 +90,10 @@
     <ProjectReference Include="..\LogicaDeNegocio\LogicaDeNegocio.csproj">
       <Project>{e9b02d68-a232-4170-9014-c03071e40a72}</Project>
       <Name>LogicaDeNegocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Recursos\Recursos.csproj">
+      <Project>{893deef1-2229-4877-a1fa-a3beb356dfe1}</Project>
+      <Name>Recursos</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
