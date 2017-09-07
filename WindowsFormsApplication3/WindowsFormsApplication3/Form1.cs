@@ -5,25 +5,30 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-using ConecxionDB.Dataset.DatasetConecxionTableAdapters;
+using LogicaDeNegocio.Logic;
+using WindowsFormsApplication3.ViewModel;
+using ConecxionDB.Modelo;
 namespace WindowsFormsApplication3
 {
 
     public partial class Form1 : Form
     {
-
+       LogicEmpleado logicEmpleado = new LogicEmpleado();
+   
         public Form1()
         {
             InitializeComponent();
-
+        
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
 
-            var x = new EmpleadoTableAdapter();
-            x.InsertEmpleado(textBox1.Text, textBox2.Text);
-            dataGridView1.DataSource = x.GetDataByEmpleado();
+            var empleado = new Empleado();
+            empleado.Nombre = textBox1.Text;
+            empleado.Puesto = textBox2.Text;
+            logicEmpleado.AgregarEmpleado(empleado);
+            dataGridView1.DataSource = logicEmpleado.llenarGrid();
             dataGridView1.Refresh();
 
         }
@@ -31,8 +36,7 @@ namespace WindowsFormsApplication3
         private void Form1_Load(object sender, EventArgs e)
         {
 
-            var x = new EmpleadoTableAdapter();
-            dataGridView1.DataSource = x.GetDataByEmpleado();
+            dataGridView1.DataSource = logicEmpleado.llenarGrid();
             dataGridView1.Refresh();
 
         }
