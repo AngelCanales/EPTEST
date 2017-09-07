@@ -1,0 +1,8 @@
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.exe.config
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.exe
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\LogicaDeNegocio\bin\Debug\ConecxionDB.exe
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\LogicaDeNegocio\bin\Debug\ConecxionDB.pdb
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.exe
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb

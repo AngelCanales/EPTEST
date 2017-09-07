@@ -3,3 +3,8 @@ C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\ConecxionDB\
 C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\ConecxionDB\bin\Debug\ConecxionDB.pdb
 C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\ConecxionDB\obj\Debug\ConecxionDB.exe
 C:\Users\Angel.Canales\Desktop\Metro\angel\WindowsFormsApplication3\ConecxionDB\obj\Debug\ConecxionDB.pdb
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\ConecxionDB\bin\Debug\ConecxionDB.exe.config
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\ConecxionDB\bin\Debug\ConecxionDB.exe
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\ConecxionDB\bin\Debug\ConecxionDB.pdb
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\ConecxionDB\obj\Debug\ConecxionDB.exe
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\ConecxionDB\obj\Debug\ConecxionDB.pdb

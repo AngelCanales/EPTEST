@@ -1,0 +1,10 @@
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\bin\Debug\Recursos.exe.config
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\bin\Debug\Recursos.exe
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\bin\Debug\Recursos.pdb
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\bin\Debug\es-HN\Recursos.resources.dll
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\obj\Debug\Recursos.Recurso.Resource1.resources
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\obj\Debug\Recursos.Recurso.Resource1.es-HN.resources
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\obj\Debug\Recursos.csproj.GenerateResource.Cache
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\obj\Debug\es-HN\Recursos.resources.dll
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\obj\Debug\Recursos.exe
+C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\Recursos\obj\Debug\Recursos.pdb
