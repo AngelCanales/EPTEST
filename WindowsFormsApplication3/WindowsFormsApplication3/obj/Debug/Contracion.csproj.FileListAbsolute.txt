@@ -22,3 +22,16 @@ C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsForms
 C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LogicaDeNegocio.pdb
 C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
 C:\Users\Angel.Canales\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ConecxionDB.exe
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LogicaDeNegocio.exe
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ConecxionDB.pdb
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Contracion.csprojResolveAssemblyReference.cache
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\NELLY\Source\Repos\EPTEST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Contracion.csproj.GenerateResource.Cache
