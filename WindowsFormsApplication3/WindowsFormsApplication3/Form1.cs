@@ -24,10 +24,10 @@ namespace WindowsFormsApplication3
         private void button1_Click(object sender, EventArgs e)
         {
 
-            var empleado = new Empleado();
-            empleado.Nombre = textBox1.Text;
-            empleado.Puesto = textBox2.Text;
-            logicEmpleado.AgregarEmpleado(empleado);
+            var Eempleado = new Empleado();
+            Eempleado.Nombre = textBox1.Text;
+            Eempleado.Puesto = textBox2.Text;
+            logicEmpleado.AgregarEmpleado(Eempleado);
             dataGridView1.DataSource = logicEmpleado.llenarGrid();
             dataGridView1.Refresh();
 
